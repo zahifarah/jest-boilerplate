@@ -1,27 +1,28 @@
+# Jest-Boilerplate
+
+<img src="./images/lena_forsen.png" width="300">
+
+## Introduction
+
 Light and simple Jest-based boilerplate repo to quickly get you up and running when doing algorithm quizzes/katas.
 
-1. _`npm i` to install everything_
-2. _`npm test` to run tests_
+## Prerequisits
 
-## Title
+You need to have NodeJS installed. If you don't check out the [official NodeJS documentation][node-installation].
 
-<!-- replace description -->
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci blanditiis minima natus saepe quasi fugiat laudantium quisquam, corporis provident! Atque at, ipsum facere quibusdam cupiditate nesciunt similique in animi nostrum.
+## How to install
 
-<!-- replace examples with relevant ones (just copy/paste between the backticks) -->
+_`npm i` to install dependencies_
 
-### Example 1:
+## How to run
 
-```
-- Input: arr1 = [1, "sample", new Date("2020-01-01)", true], arr2 = [true, "sample", 1, new Date("2020-01-01)"]
-- Output: true
-```
+_`npm test` to run tests_
 
-<!-- replace constraints with relevant ones -->
+Current settings have Jest running with the `--watchAll` flag; which reruns the test on save (when a file has changed).
 
-### Constraints:
+## Resources
 
-```
-- 1 <= arr.length
-- strings consist of lowercase English letters.
-```
+- [Jest API documentation][jest-documentation]
+
+[node-installation]: https://nodejs.org/en/download/
+[jest-documentation]: https://jestjs.io/docs/api
