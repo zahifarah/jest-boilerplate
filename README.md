@@ -1,7 +1,7 @@
 1. _`npm i` to install everything_
 2. _`npm test` to run tests_
 
-## [Leetcode - LC Easy](https://leetcode.com/)
+## Title
 
 <!-- replace description -->
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci blanditiis minima natus saepe quasi fugiat laudantium quisquam, corporis provident! Atque at, ipsum facere quibusdam cupiditate nesciunt similique in animi nostrum.
