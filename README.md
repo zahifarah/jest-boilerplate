@@ -6,7 +6,7 @@
 
 Light and simple Jest-based boilerplate repo to quickly get you up and running when doing algorithm quizzes/katas.
 
-## Prerequisits
+## Prerequisites
 
 You need to have NodeJS installed. If you don't check out the [official NodeJS documentation][node-installation].
 
