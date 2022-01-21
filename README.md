@@ -1,3 +1,5 @@
+Light and simple Jest-based boilerplate repo to quickly get you up and running when doing algorithm quizzes/katas.
+
 1. _`npm i` to install everything_
 2. _`npm test` to run tests_
 
@@ -12,20 +14,6 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci blanditiis mi
 
 ```
 - Input: arr1 = [1, "sample", new Date("2020-01-01)", true], arr2 = [true, "sample", 1, new Date("2020-01-01)"]
-- Output: true
-```
-
-### Example 2:
-
-```
-- Input: arr1 = [1, "sample", true], arr2 = [new Date("2020-01-01)", 1, "sample", true]
-- Output: false
-```
-
-### Example 3:
-
-```
-- Input: ransomNote = "aa", magazine = "aab"
 - Output: true
 ```
 
