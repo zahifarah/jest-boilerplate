@@ -1,23 +1,18 @@
 _Boilerplate to get up and started with writing code + tests (using Jest)_
+
 1. _`npm init -y` to initialize npm with default settings (omit `y` flag if you want to customize)._
 
 2. _`npm i jest --save-dev jest` to install Jest, or, if you're like me, `npm i jest --global` for a global install._
 
 3. _`npm i` to make sure everything's there._
 
-## [SOME TITLE - LC Easy](www.someUrl.com/lc-12941)
+## [Leetcode - LC Easy](https://leetcode.com/)
 
 <!-- replace description -->
-You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
-
-You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
-
-Return _the maximum profit you can achieve from this transaction_. If you cannot achieve any profit, return `0`.
-
-<!-- add a screenshot if desired, control width/height or both -->
-<img src="./screenshots/lena_forsen.png" width="300">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci blanditiis minima natus saepe quasi fugiat laudantium quisquam, corporis provident! Atque at, ipsum facere quibusdam cupiditate nesciunt similique in animi nostrum.
 
 <!-- replace examples with relevant ones (just copy/paste between the backticks) -->
+
 ### Example 1:
 
 ```
