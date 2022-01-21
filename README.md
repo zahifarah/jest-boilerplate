@@ -1,10 +1,5 @@
-_Boilerplate to get up and started with writing code + tests (using Jest)_
-
-1. _`npm init -y` to initialize npm with default settings (omit `y` flag if you want to customize)._
-
-2. _`npm i jest --save-dev jest` to install Jest, or, if you're like me, `npm i jest --global` for a global install._
-
-3. _`npm i` to make sure everything's there._
+1. 'npm i' to install everything
+2. 'npm test' to run tests
 
 ## [Leetcode - LC Easy](https://leetcode.com/)
 
