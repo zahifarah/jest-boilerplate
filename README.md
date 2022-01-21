@@ -1,5 +1,5 @@
-1. _'npm i' to install everything_
-2. _'npm test' to run tests_
+1. _`npm i` to install everything_
+2. _`npm test` to run tests_
 
 ## [Leetcode - LC Easy](https://leetcode.com/)
 
